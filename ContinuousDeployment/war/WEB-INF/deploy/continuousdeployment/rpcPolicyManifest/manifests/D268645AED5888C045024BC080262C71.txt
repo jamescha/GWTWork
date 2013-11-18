@@ -1,0 +1,2 @@
+serviceClass: pelco.vxst.continuousdeployment.client.GreetingService
+path: 6D9B73012E55D9054A4EAD9987A46893.gwt.rpc

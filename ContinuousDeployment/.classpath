@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry exported="true" kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-endpoints.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-jsr107cache-1.8.4.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-tools-api.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/asm-4.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/datanucleus-api-jdo-3.1.3.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/datanucleus-api-jpa-3.1.3.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/datanucleus-appengine-2.1.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/datanucleus-core-3.1.3.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/endura_soap_gem-2.1.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/geronimo-jpa_2.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-dev.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-servlet.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jdo-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jruby-complete-1.7.4.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jsr107cache-1.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/repackaged-appengine-ant-1.7.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/repackaged-appengine-ant-launcher-1.7.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/repackaged-appengine-jasper-6.0.29.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/repackaged-appengine-jasper-el-6.0.29.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/repackaged-appengine-tomcat-juli-6.0.29.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-bootstrap-2.2.1.0.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
