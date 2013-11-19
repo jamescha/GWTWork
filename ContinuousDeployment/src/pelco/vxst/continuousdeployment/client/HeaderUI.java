@@ -21,6 +21,7 @@ public class HeaderUI extends Composite {
 	}
 
 	final Role roles = new Role();
+	final User users = new User(); 
 	
 	@UiHandler("addRole")
 	void handleAddRole(ClickEvent event) {
@@ -32,5 +33,6 @@ public class HeaderUI extends Composite {
 	@UiHandler("addUser")
 	void handleAddUser(ClickEvent event) {
 		RootPanel.get("content").clear();
+		RootPanel.get("content").add(users);
 	}
 }

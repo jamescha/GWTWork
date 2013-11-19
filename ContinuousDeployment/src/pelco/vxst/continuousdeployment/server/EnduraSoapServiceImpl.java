@@ -90,7 +90,8 @@ public class EnduraSoapServiceImpl extends RemoteServiceServlet implements
 							  + "puts item = roles[:role_get_all_response][:page][:item]\n"
 							  + "puts name = item[:name].to_s\n"
 							  + "puts priority = item[:priority]");
-		Object test =  container.get("name");
+		//Object test =  container.get("name");
+		Object test =  container.get("roles");
 		
 		return test.toString();
 	}
